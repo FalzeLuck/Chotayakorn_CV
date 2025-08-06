@@ -46,4 +46,5 @@ window.addEventListener('DOMContentLoaded', event => {
 
 function viewContact(){
     alert('Contact Email : film111ch@gmail.com')
+    console.log("Contact Sent")
 };
